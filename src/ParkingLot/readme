@@ -1,0 +1,7 @@
+Functional Requirement:
+
+1.Parking Lot should have multiple level
+2.Different type of vehicle -> car,truck,motorcycle.
+3.Have parking spot for each vehicle type.
+4.Assign parking spot while entering and exiting to release parking spot.
+5.System should support multiple exist and entry point.
